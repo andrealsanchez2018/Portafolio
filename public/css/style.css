@@ -15,9 +15,9 @@
  */ 
  /* Rosttel Extruded & Rough
  Rosttel clean */
- @font-face{font-family: rosttel1;
-    src: url(../fonts/Rosttel\ Extruded\ &\ Rough.otf);}
-*{font-family: rosttel1;
+ @font-face{font-family: Montserrat-Medium;
+    src: url(../fonts/Montserrat-Medium.ttf);}
+*{font-family: Montserrat-Medium;
     letter-spacing: 1px;
 }
 
@@ -99,7 +99,7 @@ footer{
 }
 
 .container-footer-all{
-    width: 100%;
+    width: 90%;
     max-width: 1200px;
     margin: auto;
     padding: 40px;
@@ -200,4 +200,6 @@ footer{
     }
 }
 
-
+.bodcolor{
+    color: #2c0437;
+}
